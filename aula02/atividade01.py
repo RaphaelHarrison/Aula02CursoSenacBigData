@@ -5,8 +5,9 @@
 # print(f"Seu número é {numero}, o antecessor é {antecessor} e o sucessor é {sucessor}")
 
 #--------------------------------------------------------------------
-salario = float(input("Informe seu salário: "))
-aumento = salario * 0.15
-salario_aumento = salario + aumento
+# salario = float(input("Informe seu salário: "))
+# aumento = salario * 0.15
+# salario_aumento = salario + aumento
 
-print(f"Seu salário atual é de {salario:.2f} e com o aumento seu novo salário será de {salario_aumento:.2f}")
+# print(f"Seu salário atual é de {salario:.2f} e com o aumento seu novo salário será de {salario_aumento:.2f}")
+
