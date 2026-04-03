@@ -10,4 +10,3 @@
 # salario_aumento = salario + aumento
 
 # print(f"Seu salário atual é de {salario:.2f} e com o aumento seu novo salário será de {salario_aumento:.2f}")
-
